@@ -13,13 +13,13 @@
 <img src="docs/images/chucnangnghiepvu.png" width="700">
 
 ## 👤 Ứng viên
-<img src="docs/images/ungvien.png" width="700">
+<img src="docs/images/ungvien.jpg" width="700">
 
 ## 🧑‍💼 Nhà tuyển dụng
-<img src="docs/images/nhatuyendung.png" width="700">
+<img src="docs/images/nhatuyendung.jpg" width="700">
 
 ## 🏢 Công ty
-<img src="docs/images/congty.png" width="700">
+<img src="docs/images/congty.jpg" width="700">
 
 ## 🛠️ Quản trị viên
-<img src="docs/images/quantrivien.png" width="700">
+<img src="docs/images/quantrivien.jpg" width="700">
